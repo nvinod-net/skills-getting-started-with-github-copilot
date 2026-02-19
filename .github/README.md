@@ -23,6 +23,7 @@ Automated workflows for CI/CD and course automation
 ### Quick Links
 - **[Start Here](ISSUE_REFINEMENT_README.md)** - Overview and quick start
 - **[Complete Guide](REFINE_ISSUE_GUIDE.md)** - Detailed usage instructions
+- **[Process Flow](ISSUE_REFINEMENT_PROCESS.md)** - Visual diagram and workflow
 - **[Template](ISSUE_REFINEMENT_TEMPLATE.md)** - Copy-paste template
 - **[Example](ISSUE_REFINEMENT_EXAMPLE.md)** - See it in action
 
@@ -75,6 +76,7 @@ python ../refine_issue_utility.py
 |----------|---------|----------|
 | [ISSUE_REFINEMENT_README.md](ISSUE_REFINEMENT_README.md) | Quick start and overview | Everyone |
 | [REFINE_ISSUE_GUIDE.md](REFINE_ISSUE_GUIDE.md) | Complete usage guide | All users |
+| [ISSUE_REFINEMENT_PROCESS.md](ISSUE_REFINEMENT_PROCESS.md) | Visual process flow | Visual learners |
 | [ISSUE_REFINEMENT_TEMPLATE.md](ISSUE_REFINEMENT_TEMPLATE.md) | Copy-paste template | Issue authors |
 | [ISSUE_REFINEMENT_EXAMPLE.md](ISSUE_REFINEMENT_EXAMPLE.md) | Real-world example | Learners |
 

@@ -25,6 +25,13 @@ Complete example showing:
 - Fully refined issue with all sections
 - Real-world context from the Mergington High School API
 
+### [ISSUE_REFINEMENT_PROCESS.md](ISSUE_REFINEMENT_PROCESS.md)
+Visual process flow diagram showing:
+- Step-by-step refinement process
+- Before/after comparison
+- Benefits and metrics
+- Time investment and ROI
+
 ## 🛠️ Tools
 
 ### [refine_issue_utility.py](../refine_issue_utility.py)

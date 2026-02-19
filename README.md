@@ -80,6 +80,7 @@ python refine_issue_utility.py
 ### Issue Refinement Documentation
 - [Overview](.github/ISSUE_REFINEMENT_README.md) - Quick start
 - [Complete Guide](.github/REFINE_ISSUE_GUIDE.md) - Detailed instructions
+- [Process Flow](.github/ISSUE_REFINEMENT_PROCESS.md) - Visual workflow
 - [Template](.github/ISSUE_REFINEMENT_TEMPLATE.md) - Copy-paste template
 - [Example](.github/ISSUE_REFINEMENT_EXAMPLE.md) - See it in action
 
