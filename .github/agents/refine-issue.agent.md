@@ -1,6 +1,7 @@
 ---
 description: 'Refine the requirement or issue with Acceptance Criteria, Technical Considerations, Edge Cases, and NFRs'
 name: 'Refine Requirement or Issue'
+tools: ["read", "search", "edit", "github-mcp-server/issue_write"]
 ---
 
 # Refine Requirement or Issue Chat Mode
